@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: umasds
+site_url: http://umasds.github.io/
+repo_url: https://github.com/umasds/
+#repo_name: 
+#site_description: Social Data Science @ University of Mannheim
+#site_author:
+#site_favicon:
+#copyright:
+#goole_analytics:
+
+pages:
+- ['index.md', 'Home']
+- ['vm.md', 'Virtual Machine']
+
+theme: readthedocs
+
+#markdown_extensions:

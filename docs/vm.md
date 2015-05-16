@@ -49,8 +49,8 @@ cd ~/umasds-vm
 
 *Windows*: 
 ```
-mkdir %HOMEPATH%/umasds-vm
-cd %HOMEPATH%/umasds-vm
+mkdir %HOMEPATH%\umasds-vm
+cd %HOMEPATH%\umasds-vm
 ```
 #### Initialize the VM
 As the last step of the setup you have to initialize the VM and tell the

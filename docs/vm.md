@@ -2,6 +2,10 @@ Social Data Science @ University of Mannheim
 
 ![Social Data Science](img/sds.png)
 
+*This project is still under heavy development!*
+
+---
+
 # The Social Data Science VM
 
 An easy to use virtual machine (VM) for teaching data science in the 
@@ -73,7 +77,7 @@ you need to enter the following:
 vagrant up
 ```
 
-After a while the **Social Data Science** desktop should come up and you 
+After a while your social data science desktop should come up and you 
 can start crunching data!
 
 ---

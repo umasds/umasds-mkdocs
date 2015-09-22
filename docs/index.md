@@ -1,8 +1,4 @@
-Social Data Science @ University of Mannheim
-
 ![Social Data Science](img/sds.png)
-
-*This project is still under heavy development!*
 
 ---
 
@@ -51,9 +47,18 @@ an [open source](http://opensource.org/) licence.
 Apart from learning the technical skills the main focus of our course is
 the application of data science techniques to social research questions.
 In order to do that the students will get an introduction to different
-machine learning concepts. We will cover a few of the basic 
-classification algorithms like naive bayes and decision trees. 
-...
+machine learning concepts. We will first cover basic classification 
+algorithms like naive bayes and decision trees. Together we will then 
+explore how these can be applied to problems of prediction and 
+explanation of social phenomena.
+
+The substantive part of the course will start with students developing 
+a research question in one of the areas of family, education or labour market
+research. After that we will discuss - and finally decide on - datasets 
+to be used to address the specific research questions. The main task for
+the rest of the course is then to discuss and develop the application of 
+the data science methods the students have just learned to their own 
+research question. 
 
 
 

@@ -101,3 +101,20 @@ desktop.
 To stop the VM all you have to to is click on the shutdown icon (red 
 square with white circle) in the lower right corner > click on *Shut 
 down*.
+
+---
+
+## Keeping up to date
+The VM image you can download above will only be updated occasionally, 
+e. g. for major changes. It is still highly advisable to update your
+installation on a regular basis in order to get bug fixes and security 
+updates. 
+
+To easily get your system up to date you just have to start a terminal
+ in your VM as shown above and enter:
+```
+sudo apt-get update; sudo apt-get upgrade
+```
+
+To update RStudio you start RStudio and simply click on *Help* > 
+*Check for Updates*

@@ -29,6 +29,7 @@
 - [Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/08/ggplot2-cheatsheet.pdf) cheat sheet for data wrangling with dplyr and tidyr in R
 
 # Machine Learning
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) very good free book on statistical learning with applications in R
 - [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) free online video course
 - [Cheat Sheet – 10 Machine Learning Algorithms & R Commands](http://vitalflux.com/cheat-sheet-10-machine-learning-algorithms-r-commands/) including Naive Bayes, k-Nearest Neighbors and Decision Trees
 - [Machine learning cheat sheet](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf) very concise cheat sheet on ML algorithms
